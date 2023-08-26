@@ -1,6 +1,6 @@
 # Pleceed
-https://www.pleceed.com/ec<br>
-https://www.pleceed.com/contact
+https://www.pleceed.com/ec.html<br>
+https://www.pleceed.com/contact.php
 ## 使用言語
 HTML/CSS/Javascript/PHP
 ## 使用技術・ライブラリ・フレームワーク
